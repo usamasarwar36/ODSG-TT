@@ -1,0 +1,148 @@
+body {	
+	background-color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1.5em;	
+	line-height: 2em;	
+	color: #336699;
+	margin:3em;
+	}
+.summarydiv{
+	border:#000000 thick double;
+	font-family: Arial, Helvetica, sans-serif;
+	margin:3em;
+	display:none;
+}
+.keywordsdiv{
+	border:#000000 dotted thin;
+	font-family: Arial, Helvetica, sans-serif;
+	margin:3em;
+	display:none;
+}
+.referencelink{
+	font-family: Arial, Helvetica, sans-serif;
+	margin:5em;
+	color:#999999
+}
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color:#CC3300;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+h2 {
+	color: #CCCCCC
+	}
+h3 {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1.15em;	
+	background-color:#FFFFFF;  	
+	color:#666666;
+	position:relative;
+	text-align:center;
+	}
+h4 {
+	color: #000000
+	}
+table {
+	color: #FFFFFF
+	}
+td, th {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 2em;
+	color: #333333
+	}
+textarea {
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+ul {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em;	
+	list-style-type: square;	
+	list-style-position: outside
+	}
+.BulletBackgroundColor {
+	color: #FFFFFF
+	}
+.DataColor {
+	color: #DEDECA
+	}
+.footer { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.167em;
+	font-weight: bold;
+	line-height: 1.83em;
+	color: #333333;
+	background-color: #CCCCCC
+	}
+.FormBackgroundColor {
+	color: #CCCCCC
+	}
+.ImageTitleColor {
+	color: #CCCCCC
+	}
+.LabelColor {
+	color: #CCCCCC
+	}
+.ListColorEven {
+	color: #CCCCCC
+	}
+.ListFooterColor {
+	color: #333333
+	}
+.ListHeaderColor {
+	color: #333333
+	}
+.ListColorOdd {
+	color: #DEDECA
+	}
+.ListTitleColor {
+	color: #CCCCCC
+	}
+.NavigationBackgroundColor {
+	color: #666666
+	}
+.NavigationColor {
+	color: #CCCCCC
+	}
+.NewsDataColor {
+	color: #DEDECA
+	}
+.StoryTitle {
+	color: #000000;
+	font-weight: bold
+	}
+.StoryContentColor {
+	color: #000000
+	}
+.Title {
+	color: #000000;
+	text-align:center;
+	text-decoration:underline
+	}
+a:hover {	
+	text-decoration: underline
+	}
+tr.ListHeaderColor th {
+	text-align: left;
+	}.small {
+	font-size: 85%;
+}
